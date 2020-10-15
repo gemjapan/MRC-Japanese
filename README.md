@@ -1,1 +1,1 @@
-# Machine-readable-consent
+# Machine-readable-consent-japanese
